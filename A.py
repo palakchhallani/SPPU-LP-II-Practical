@@ -1,4 +1,4 @@
-
+// A * search 
 
 class Node:
     def __init__(self,data,level,fval):
